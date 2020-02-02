@@ -18,12 +18,12 @@ to achive this goals I have to:
 
 the growth mindest is theory talking about people how get benefits from any circumstanceses and face their fear, improve their self and work hard to get their goals achived.
 
-I have to remained my self to keep it in the growth mindest gap with:
+ I have to remained my self to keep it in the growth mindest gap with:
 * acknowlodge and embrace imprefections 
 *make the challenges as oppourtunity 
 *try different learnings way 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 
 [GitHub](https://github.com/yasminadaileh1)
