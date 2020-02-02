@@ -4,7 +4,7 @@ the growth mindest is theory talking about people how get benefits from any circ
 
 
 I have to remained my self to keep it in the growth mindest gap with:
-+ acknowlodge and embrace imprefections 
+= acknowlodge and embrace imprefections 
 + make the challenges as oppourtunity 
 + try different learnings way 
 
