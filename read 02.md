@@ -13,11 +13,11 @@ there is third-party options:
 * Sublime Text
 
 the command for terminal i'vd learned is:
-**mkdir for making a directory**
-**ls satand for list**
-**cd enter file**
-**tauch for craet file
-**echo to write inside the file**
+- **mkdir for making a directory**
+- **ls satand for list**
+- **cd enter file**
+- **tauch for craet file
+- **echo to write inside the file**
 
 
 ## linux have 6 line terminal 
