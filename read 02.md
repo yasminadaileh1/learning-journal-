@@ -19,6 +19,3 @@ the command for terminal i'vd learned is:
 - **tauch for craet file**
 - **echo to write inside the file**
 
-
-## linux have 6 line terminal 
-
