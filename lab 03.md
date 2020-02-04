@@ -7,7 +7,7 @@ now I'll make a table for my worksheet and I wish to make it correctly
 | ----------- | ----------- |
 |      1      | [learning journal](https://yasminadaileh1.github.io/learning-journal-/) | 
 | ----------- | ----------- |
-|      2      |[Hello world](https://github.com/yasminadaileh1/learning-journal-) |
+|      2      |[Hello world](https://yasminadaileh1.github.io/hello-world/) |
 | ----------- | ----------- |
-|      3      |[Adaileh](https://yasminadaileh1.github.io/hello-world/) |
+|      3      |[Adaileh](https://yasminadaileh1.github.io/adaileh/) |
 | ----------- | ----------- |
